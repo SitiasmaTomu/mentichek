@@ -7,3 +7,4 @@ scipy
 joblib
 Pillow
 requests
+google-generativeai
