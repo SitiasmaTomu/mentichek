@@ -1,0 +1,12 @@
+streamlit
+joblib
+numpy
+streamlit-option-menu
+pandas
+scikit-learn
+google-generativeai
+matplotlib
+seaborn
+pickle
+
+# install dengan pyhton versi 3.12.7
